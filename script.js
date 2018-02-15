@@ -163,14 +163,14 @@ $(this).toggleClass("active");
 $('.mosaic-block.fourth').click(function(){
 //jQuery('.fifth').removeClass('select');
  $('.fourth').removeClass('select');
-  console.log("enter");
+  
                 $('.t-desc').removeClass('active');
                 
                 $(".t-desc").html( "" );
                 
                 var pIndex = (($(this).index('.fourth') + 4) - ($(this).index('.fourth') % 4)) / 4;
                 var descPort = $(this).children(".two-thirds.last").html();
-               console.log(pIndex); 
+               
                 $("#port-desc-" + pIndex).html( descPort );
                 
                 $(this).addClass('select');
