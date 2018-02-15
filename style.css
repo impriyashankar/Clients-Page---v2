@@ -2210,4 +2210,5 @@ h2, h3 { page-break-after: avoid; }
 .mosaic-block >div:nth-of-type(2)
 {
   text-align:center;
+  background-color:#fff;
 }
