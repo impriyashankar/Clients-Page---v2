@@ -258,6 +258,17 @@ nav #nav{
 	/*height:auto;*/
     height:191.16px;
 }
+#cont
+{
+	margin-top:50px;
+	width:100%;
+	height:auto;
+}
+#cont-p
+{
+	height:191.16px;
+}
+
 a img{
 	position: relative;
 }
