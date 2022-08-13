@@ -6,7 +6,7 @@ The page slides down further information about the client on click and is hidden
 
 > Live demo [_here_](https://impriyashankar.github.io/Clients-Page---v2/).
 
-## Technologies Used
+## Technologies Used 
 - HTML
 - CSS
 - jQuery
